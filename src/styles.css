@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: blue;
+}
+.App p {
+  font-family: sans-serif;
+  text-align: left;
+  color: red;
+}
